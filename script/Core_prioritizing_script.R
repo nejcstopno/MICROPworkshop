@@ -5,7 +5,7 @@ library(vegan)
 
 theme_set(theme_light())
 
-setwd('~/Documents/git/MICROPworkshop/')
+setwd('~/Documents/MICROPworkshop/')
 
 #-----------------------------------------------------------------------------------------
 ##Prioritizing core microbiome based on TIME
